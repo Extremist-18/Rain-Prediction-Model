@@ -12,5 +12,6 @@ LDR is photoconductivity, which is nothing but an optical phenomenon. When the l
 
  
 The circuit implemented can be refered as follows:
+
 <img width="627" alt="image" src="https://github.com/Extremist-18/Rain-Prediction-Model/assets/137435109/69dd5740-b230-4c0d-9ad3-97de89a45b8d">
 
